@@ -124,7 +124,7 @@ loss: 0.85 - accuracy: 0.70 - val_loss: 0.65 - val_accuracy: 0.78
 
 ## 📄 License
 
-This project is licensed under the MIT License – see the `LICENSE` file for details.
+This project is licensed under the Apache 2.0 License – see the `LICENSE` file for details.
 
 ---
 
